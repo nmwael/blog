@@ -1,4 +1,4 @@
-# Integrating Keycloak 4 with Spring Boot 2 Microservices
+# Integrating Keycloak 7 with Spring Boot 2 Microservices
 
 This project shows a simple integration of Keycloak 4 in Spring Boot 2 applications.
 

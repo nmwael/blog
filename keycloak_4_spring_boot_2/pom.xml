@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.johannesinnerbichler</groupId>
-    <artifactId>keycloak-4-spring-boot-2</artifactId>
+    <artifactId>keycloak-7-spring-boot-2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
